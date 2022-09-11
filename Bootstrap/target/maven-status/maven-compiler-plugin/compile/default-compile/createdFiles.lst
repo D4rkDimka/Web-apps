@@ -1,0 +1,3 @@
+dao\DBRepository.class
+entity\User.class
+servlets\LoginServlet.class

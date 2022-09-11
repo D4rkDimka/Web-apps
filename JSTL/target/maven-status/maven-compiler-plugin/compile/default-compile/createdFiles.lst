@@ -1,0 +1,4 @@
+com\tms\prudnik\servlets\InitServlet.class
+com\tms\prudnik\dto\Book.class
+com\tms\prudnik\repository\BookDBRepository.class
+com\tms\prudnik\servlets\BookServlet.class
