@@ -1,0 +1,7 @@
+users\User$sex.class
+users\User$role.class
+UsersServlet.class
+database\DBService.class
+users\User.class
+filters\LoginAndPassFilter.class
+Servlet.class
